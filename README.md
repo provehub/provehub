@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Strataly
+- 🔭 I’m currently working on ... <a href="https://strataly.com/">Strataly</a>
 - 🌱 I’m currently learning ... Latest Technologies 
 - 👯 I’m looking to collaborate on ... Contract Hire
 - 🤔 I’m looking for help with ... Cross-border remittance APIs
