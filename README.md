@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything relating Tech and Development
 - 📫 How to reach me: ... www.provehub.com
 - 😄 Web Projects: ...
+      https://fitfind.us/ - Gym and fitness finder – Built using Laravel 10, Inertia, Vue 3 and Tailwind CSS.
       https://worldmainmarket.com/ - Classified Ads – Built using Laravel, Inertia, Vue 3 and Tailwind CSS – With Mobile App using Ionic Framework and Vue.
       https://motonum.com/ - Motorcycle Database – Built using Laravel, Alpine Js, Tailwind
       www.highwatermark.school - Online School Management System – Built using WordPress
