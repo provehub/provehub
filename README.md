@@ -5,7 +5,7 @@
 
 **provehub/provehub** is a ✨ _special_ ✨ repository because I show proven creative solutions.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started on knowing me:
 
 - 🔭 I’m currently working on ... <a href="https://strataly.com/" target="_blank">Strataly</a> Blockchain Real Estate Co-ownership
 - 🌱 I’m currently learning ... Latest Technologies 
